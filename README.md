@@ -42,6 +42,6 @@ ENGINE = InnoDB;
 
 ---
 
-![](../스크린샷 2023-07-09 오후 11.51.32.png)
+![스크린샷 2023-07-09 오후 11 51 32](https://github.com/KongSangUk/simple-board/assets/100742282/1023d9f2-fe1a-486b-9884-2dd493733701)
 
 ---
